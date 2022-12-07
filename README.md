@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeyBonnieK
 - 👀 I’m interested in Pickleball
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on easy data science things
 - 📫 How to reach me ...
 
 <!---
